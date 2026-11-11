@@ -1,6 +1,6 @@
 ---
 file: 00_start-here.md
-lead: Shruti
+lead: Fahad
 updated: YYYY-MM-DD
 ---
 # 00 Start Here – Instructions for every AI
