@@ -17,10 +17,10 @@ updated: YYYY-MM-DD
 ## 2. Team, roles, AI tools, and files each person leads
 | Person | Role | AI tool | Leads |
 |---|---|---|---|
-| Shruti | Coordinator | ChatGPT | 00_start-here, 01_plan, 06_decisions, _archive/ |
+| Fahad | Coordinator | ChatGPT | 00_start-here, 01_plan, 06_decisions, _archive/ |
 | Anna | Researcher | Claude / Mistral | 02_participants, 03_synthesis, transcripts/, summaries/ |
 | Khushboo | Visual, Miro/FigJam | Any | 04_boards |
-| Fahad | Concepts & prototypes | Figma Make | 05_concepts, outputs/ |
+| Shruti | Concepts & prototypes | Figma Make | 05_concepts, outputs/ |
 | Amber | Story & report | ChatGPT | 07_report, uploads/ |
 
 **Everyone can edit every file. The lead is responsible for it.**
