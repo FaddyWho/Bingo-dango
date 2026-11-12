@@ -6,9 +6,11 @@ updated: YYYY-MM-DD
 # 01 Plan
 ## Objective
 ## Research questions
-| # | Question | Method |
-|---|---|---|
-| RQ1 | | Interview |
+| ID | Method | Audience | Date | Answers |
+|---|---|---|---|---|
+| FT01 | Field trip | [who/where] | [date] | RQ[x] |
+| WS01 | Co-creation workshop "Into the Woods" (8 activities, 2 hours) | 12 teens + 4 adults, Kuldīga | 2026-10-27 | RQ[x] |
+| P01... | Interviews | [who] | | RQ[x] |
 ## Participants
 - Number:
 - Criteria (include / exclude):
