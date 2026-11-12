@@ -31,4 +31,11 @@ updated: YYYY-MM-DD
 - **Decision:** Focus on excitement and adventure as a reason to visit, and map the in-park journey for excitement gaps.
 - **Status:** proposed, confirm with the team
 
+- **Date:** 2026-11-11
+- **Decided by:** Team
+- **Context:** Earlier notes planned WS01 (teens) and WS02 (adults) as separate sessions.
+- **Decision:** One workshop, ID WS01. Segments are tagged (teens, adults). No WS02.
+- **Reason / evidence:** Both audiences took part in the same session on 2026-10-27.
+- **Status:** active
+
 ## Suggestions
