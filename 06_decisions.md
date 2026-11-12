@@ -1,7 +1,7 @@
 ---
 file: 06_decisions.md
 lead: Shruti
-updated: YYYY-MM-DD
+updated: 2026-11-12
 ---
 # 06 Decisions
 ## D001: [Short title]
