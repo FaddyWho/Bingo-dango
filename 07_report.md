@@ -1,7 +1,7 @@
 ---
 file: 07_report.md
 lead: Amber
-updated: YYYY-MM-DD
+updated: 2026-11-12
 ---
 # 07 Report
 ## Report outline
@@ -25,4 +25,8 @@ Appendix: participants, interview guide
 | 8 | Recommendations | | 06_decisions |
 | 9 | Next steps | | |
 ## Draft text
+## Draft text
+Notes for writing:
+- Label client facts and figures "as reported by LVM" (CB01).
+- Show the client's challenges (CF01–CF07) next to what our research found, including where we have no evidence (D004).
 ## Suggestions
