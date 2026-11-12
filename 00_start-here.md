@@ -53,6 +53,10 @@ _archive/          old versions and discarded material
 8. **Be concise and flag uncertainty.** Point out contradictions between participants.
 9. **Output format:** Markdown (.md), ready to paste into the file. Say which file it belongs in.
 10. **Privacy:** Use participant IDs (P01), never real names. Don't put contact details in any file.
+11. **Sessions have IDs:** P = interview, FT = field trip, WS = workshop. WS01 is one workshop with two segments (teens, adults).
+12. **Always say which segment (teen or adult) a finding comes from.** Never merge segments without saying so.
+13. **Participants under 18 stay anonymous:** IDs only, no names, schools, or identifiable photos.
+14. Treat adult participants in WS01 as park professionals (LVM) plus a teacher, not typical visitors.
 
 ## 5. Naming conventions
 - Participants: `P01`, `P02`...; transcripts `P01_transcript.md`; summaries `P01_summary.md`
@@ -61,6 +65,8 @@ _archive/          old versions and discarded material
 - Insights: `I01`...; themes: `T01`...
 - Dates: `YYYY-MM-DD`
 - Commit message: `[file] Name: what changed`
+- **Name:** Into the Woods (client: LVM Nature Park Team)
+- **Place:** Kuldīga, Latvia
 
 ## 6. Workflow
 Plan → Interview → Transcribe → Summarize → Synthesize → Concepts → Report
