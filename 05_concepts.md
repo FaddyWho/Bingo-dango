@@ -1,6 +1,6 @@
 ---
 file: 05_concepts.md
-lead: Fahad
+lead: Shruti
 updated: YYYY-MM-DD
 ---
 # 05 Concepts
