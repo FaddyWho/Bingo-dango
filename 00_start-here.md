@@ -115,8 +115,8 @@ Templates: see `summaries/README.md`.
 **Anyone**
 > Read 00_start-here.md and follow it. I am [Name], [role]. Today I'm working on [file/task].
  
-**Shruti – coordination**
-> Read 00_start-here.md and follow it. I'm Shruti. Check 01_plan.md, 02_participants.md and 06_decisions.md and tell me which sessions (P, FT, WS, TW) are missing a summary, which methods in the plan haven't happened yet, and what is inconsistent across files.
+**Fahad – coordination**
+> Read 00_start-here.md and follow it. I'm Fahad. Check 01_plan.md, 02_participants.md and 06_decisions.md and tell me which sessions (P, FT, WS, TW) are missing a summary, which methods in the plan haven't happened yet, and what is inconsistent across files.
  
 **Anna – research**
 > Read 00_start-here.md and follow it. I'm Anna. Here is a transcript [paste]. Create summaries/PXX_summary.md using the template. Then list which themes in 03_synthesis.md it supports or contradicts.
@@ -139,8 +139,8 @@ Templates: see `summaries/README.md`.
 **Khushboo – boards**
 > Read 00_start-here.md and follow it. I'm Khushboo. Based on 03_synthesis.md, suggest how to structure the affinity map and journey map in Miro. Give cluster names and which sessions and segments go in each.
  
-**Fahad – concepts**
-> Read 00_start-here.md and follow it. I'm Fahad. Using the insights in 03_synthesis.md, propose 3 concepts in the 05_concepts.md template and write a prompt I can paste into Figma Make for the best one.
+**Shruti – concepts**
+> Read 00_start-here.md and follow it. I'm Shruti. Using the insights in 03_synthesis.md, propose 3 concepts in the 05_concepts.md template and write a prompt I can paste into Figma Make for the best one.
  
 **Amber – report**
 > Read 00_start-here.md and follow it. I'm Amber. Draft the findings section of 07_report.md from 03_synthesis.md and 06_decisions.md. Every claim needs a session citation and segment, and a note if the sample is small.
