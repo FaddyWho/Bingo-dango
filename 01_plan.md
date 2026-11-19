@@ -1,6 +1,6 @@
 ---
 file: 01_plan.md
-lead: Shruti
+lead: Fahad
 updated: 2026-11-12
 ---
 # 01 Plan
